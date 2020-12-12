@@ -14,6 +14,9 @@
 └───
 ```
 
+## Architecture
+The project uses modified Clean Swift architecture. Presenter and Router were removed for simplicity.
+
 ## Requirements
 Tested on Xcode 12.2<br>
 iOS 13.0+
