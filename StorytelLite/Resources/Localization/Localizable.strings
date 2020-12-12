@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  StorytelLite
+
+  Created by Alex Kravchenko on 12.12.2020.
+  
+*/
+
+// Common
+"ok" = "ok";
+"by" = "by";
+"with" = "with";
+"query" = "query";
+
+// Error
+"error.title" = "error";
+"error.generalLocalizedMessage" = "Oops, something went wrong :(";
